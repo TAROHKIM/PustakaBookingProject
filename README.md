@@ -1,2 +1,0 @@
-# PustakaBookingProject
- projectkuliah
